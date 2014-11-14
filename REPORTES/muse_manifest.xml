@@ -1,0 +1,116 @@
+<manifest alg="2" build="5" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="4269249404"/>
+    <file name="master_b-p_gina-maestra.css" crc="4139815248" ref="frecuencia:canje:juegos-en-linea:juego-2:demograficos:reporte-juego-1:topusers:portal-de-usuario"/>
+    <file name="master_a-p_gina-maestra.css" crc="508543748" ref="ayuda:404:contactanos:logout:quienes-somos:index"/>
+    <file name="frecuencia.css" crc="176190859" ref="frecuencia"/>
+    <file name="canje.css" crc="3872636772" ref="canje"/>
+    <file name="juegos-en-linea.css" crc="4164907335" ref="juegos-en-linea"/>
+    <file name="ayuda.css" crc="4067863287" ref="ayuda"/>
+    <file name="404.css" crc="70938713" ref="404"/>
+    <file name="contactanos.css" crc="100074552" ref="contactanos"/>
+    <file name="iefonts_contactanos.css" crc="22900253" ref="contactanos"/>
+    <file name="juego-2.css" crc="271797854" ref="juego-2"/>
+    <file name="demograficos.css" crc="3894286283" ref="demograficos"/>
+    <file name="reporte-juego-1.css" crc="4104250285" ref="reporte-juego-1"/>
+    <file name="logout.css" crc="153473796" ref="logout"/>
+    <file name="topusers.css" crc="4144757278" ref="topusers"/>
+    <file name="quienes-somos.css" crc="3883875745" ref="quienes-somos"/>
+    <file name="index.css" crc="4101774404" ref="index"/>
+    <file name="iefonts_index.css" crc="301885022" ref="index"/>
+    <file name="portal-de-usuario.css" crc="4068314434" ref="portal-de-usuario"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:contactanos:ayuda:portal-de-usuario:juegos-en-linea:demograficos:frecuencia:canje:reporte-juego-1:logout:404:quienes-somos:juego-2:topusers"/>
+    <file name="museutils.js" crc="4291592202" ref="index:contactanos:ayuda:portal-de-usuario:juegos-en-linea:demograficos:frecuencia:canje:reporte-juego-1:logout:404:quienes-somos:juego-2:topusers"/>
+    <file name="webpro.js" crc="3903299128" ref="index:contactanos:ayuda:frecuencia:topusers"/>
+    <file name="form_check.php" crc="379161437" ref="index:contactanos"/>
+    <file name="form_throttle.php" crc="4159098415" ref="index:contactanos"/>
+    <file name="form-u675.php" crc="3799925584" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index:contactanos:ayuda:portal-de-usuario:juegos-en-linea:demograficos:frecuencia:canje:reporte-juego-1:logout:404:quienes-somos:juego-2:topusers"/>
+    <file name="form-u764.php" crc="3875278204" ref="contactanos"/>
+    <file name="pie.js" crc="3827607177" ref="ayuda:portal-de-usuario"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="ayuda:frecuencia:topusers"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="ayuda:frecuencia:topusers"/>
+    <file name="touchswipe.js" crc="4156838003" ref="ayuda:frecuencia:topusers"/>
+  </folder>
+  <folder name="images">
+    <file name="bg.jpg" crc="51580676" ref="index:contactanos:ayuda:portal-de-usuario:juegos-en-linea:demograficos:frecuencia:canje:reporte-juego-1:logout:404:quienes-somos:juego-2:topusers"/>
+    <file name="headerbar.png" crc="215100356" ref="index:contactanos:ayuda:logout:404:quienes-somos"/>
+    <file name="logo.png" crc="91789214" ref="index:contactanos:ayuda:portal-de-usuario:juegos-en-linea:demograficos:frecuencia:canje:reporte-juego-1:logout:404:quienes-somos:juego-2:topusers"/>
+    <file name="hardmodelogo.png" crc="3941186203" ref="index:contactanos:ayuda:portal-de-usuario:juegos-en-linea:demograficos:frecuencia:canje:reporte-juego-1:logout:404:quienes-somos:juego-2:topusers"/>
+    <file name="loginframe.png" crc="261027840" ref="index:logout:404"/>
+    <file name="starlogin.png" crc="314446689" ref="index"/>
+    <file name="form_entry_graphic.png" crc="41548187" ref="index"/>
+    <file name="u686-17.png" crc="4122345189" ref="index"/>
+    <file name="u686-17-r.png" crc="3797878633" ref="index"/>
+    <file name="u686-17-m.png" crc="3797878633" ref="index"/>
+    <file name="u686-17-fs.png" crc="4122345189" ref="index"/>
+    <file name="footerbar.png" crc="316105685" ref="index:contactanos:ayuda:logout:404:quienes-somos"/>
+    <file name="hardmodelogofooter.png" crc="292739514" ref="index:contactanos:ayuda:logout:404:quienes-somos"/>
+    <file name="facebooklogofooter.png" crc="267104999" ref="index:contactanos:ayuda:portal-de-usuario:juegos-en-linea:demograficos:frecuencia:canje:reporte-juego-1:logout:404:quienes-somos:juego-2:topusers"/>
+    <file name="glogofooter.png" crc="4128331022" ref="index:contactanos:ayuda:portal-de-usuario:juegos-en-linea:demograficos:frecuencia:canje:reporte-juego-1:logout:404:quienes-somos:juego-2:topusers"/>
+    <file name="twlogofooter.png" crc="14469824" ref="index:contactanos:ayuda:portal-de-usuario:juegos-en-linea:demograficos:frecuencia:canje:reporte-juego-1:logout:404:quienes-somos:juego-2:topusers"/>
+    <file name="bodysquare.png" crc="4023386192" ref="contactanos:ayuda:quienes-somos"/>
+    <file name="u765-17.png" crc="346701413" ref="contactanos"/>
+    <file name="u765-17-r.png" crc="4204685267" ref="contactanos"/>
+    <file name="u765-17-m.png" crc="4204685267" ref="contactanos"/>
+    <file name="u765-17-fs.png" crc="4204685267" ref="contactanos"/>
+    <file name="greybar1.png" crc="89412859" ref="portal-de-usuario:juegos-en-linea:demograficos:frecuencia:canje:reporte-juego-1:juego-2:topusers"/>
+    <file name="user pic.png" crc="4207803947" ref="portal-de-usuario:juegos-en-linea:demograficos:frecuencia:canje:reporte-juego-1:juego-2:topusers"/>
+    <file name="golduser.png" crc="110801697" ref="portal-de-usuario:juegos-en-linea:demograficos:frecuencia:canje:reporte-juego-1:juego-2:topusers"/>
+    <file name="demog2.png" crc="4081513001" ref="portal-de-usuario:demograficos"/>
+    <file name="botonover.png" crc="367267285" ref="portal-de-usuario"/>
+    <file name="botonselected.png" crc="104473300" ref="portal-de-usuario"/>
+    <file name="goldusermembership.png" crc="4193820429" ref="portal-de-usuario"/>
+    <file name="footerbar2.png" crc="48610917" ref="portal-de-usuario:juegos-en-linea:demograficos:frecuencia:canje:reporte-juego-1:juego-2:topusers"/>
+    <file name="nuevojuego.png" crc="4011870100" ref="juegos-en-linea"/>
+    <file name="juego1.png" crc="100831002" ref="juegos-en-linea"/>
+    <file name="juego2.png" crc="217399631" ref="juegos-en-linea"/>
+    <file name="tiempoempty.jpg" crc="196473150" ref="juegos-en-linea"/>
+    <file name="tiempofull.jpg" crc="386965688" ref="juegos-en-linea"/>
+    <file name="renovarsuscripcion.png" crc="4185947303" ref="juegos-en-linea"/>
+    <file name="demog1.jpg" crc="347106678" ref="demograficos"/>
+    <file name="demog3.jpg" crc="206498860" ref="demograficos"/>
+    <file name="demog4.jpg" crc="3946695490" ref="demograficos"/>
+    <file name="game2button.png" crc="290238492" ref="demograficos:frecuencia:canje:reporte-juego-1:juego-2:topusers"/>
+    <file name="game1button.png" crc="239452680" ref="demograficos:frecuencia:canje:reporte-juego-1:juego-2:topusers"/>
+    <file name="game3button copy.png" crc="3998571935" ref="demograficos:frecuencia:canje:reporte-juego-1:juego-2:topusers"/>
+    <file name="yellowgreyshape.png" crc="4030357267" ref="frecuencia:canje:reporte-juego-1:juego-2"/>
+    <file name="girl1.jpg" crc="4273488337" ref="frecuencia:topusers"/>
+    <file name="blank.gif" crc="4208392903" ref="frecuencia:topusers"/>
+    <file name="man1.jpg" crc="4257671881" ref="frecuencia:topusers"/>
+    <file name="girl2.jpg" crc="153538903" ref="frecuencia:topusers"/>
+    <file name="man2.jpg" crc="69672869" ref="frecuencia:topusers"/>
+    <file name="girl5.jpg" crc="385493214" ref="frecuencia:topusers"/>
+    <file name="loading.gif" crc="3815509949" ref="frecuencia:topusers"/>
+    <file name="slideshowcover.png" crc="444609462" ref="frecuencia:topusers"/>
+    <file name="button2grey.png" crc="456782500" ref="frecuencia:canje:reporte-juego-1:juego-2"/>
+    <file name="yellowgreyshape2.png" crc="4178121942" ref="canje"/>
+    <file name="userlogout.png" crc="4261942107" ref="logout"/>
+    <file name="aboutusimg2.jpg" crc="385896827" ref="quienes-somos"/>
+    <file name="hardmodelogofooter-u750.png" crc="3788935084" ref="quienes-somos"/>
+    <file name="shapeyellow.png" crc="4161033165" ref="topusers"/>
+    <file name="girl4.jpg" crc="3796337578" ref="topusers"/>
+    <file name="girl3.jpg" crc="124841510" ref="topusers"/>
+    <file name="man3-u2491.jpg" crc="4086321782" ref="topusers"/>
+    <file name="boy4.png" crc="3805226241" ref="topusers"/>
+    <file name="boy5.png" crc="59980419" ref="topusers"/>
+    <file name="commonuserschart.png" crc="21483768" ref="topusers"/>
+    <file name="names.png" crc="3783545109" ref="topusers"/>
+  </folder>
+  <file name="index.html" crc="304115558" mt="1398312671315" redirect="true"/>
+  <file name="contactanos.html" crc="4081257288" mt="1398312671810" redirect="true"/>
+  <file name="ayuda.html" crc="424994443" mt="1398312535264" redirect="true"/>
+  <file name="portal-de-usuario.html" crc="64830142" mt="1398312101424" redirect="true"/>
+  <file name="juegos-en-linea.html" crc="3824154667" mt="1398312652952" redirect="true"/>
+  <file name="demograficos.html" crc="289906523" mt="1398312101429" redirect="true"/>
+  <file name="frecuencia.html" crc="4158546312" mt="1398312101431" redirect="true"/>
+  <file name="canje.html" crc="79743944" mt="1398312214378" redirect="true"/>
+  <file name="reporte-juego-1.html" crc="3942528170" mt="1398312266015" redirect="true"/>
+  <file name="logout.html" crc="4067114527" mt="1398310270791" redirect="true"/>
+  <file name="404.html" crc="4040770892" mt="1398310270794" redirect="true"/>
+  <file name="quienes-somos.html" crc="3998020756" mt="1398310270797" redirect="true"/>
+  <file name="juego-2.html" crc="426270637" mt="1398312101439" redirect="true"/>
+  <file name="topusers.html" crc="112102167" mt="1398312101441" redirect="true"/>
+</manifest>
